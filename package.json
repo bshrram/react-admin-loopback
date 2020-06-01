@@ -1,5 +1,5 @@
 {
-  "name": "react-admin-loopback",
+  "name": "react-admin-loopback2",
   "version": "1.0.6",
   "description": "Packages related to using Loopback with react-admin",
   "main": "lib/index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darthwesker/react-admin-loopback.git"
+    "url": "git+https://github.com/joshyan/react-admin-loopback.git"
   },
   "keywords": [
     "react",
@@ -33,7 +33,7 @@
   "author": "Carlos Almeida",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/darthwesker/react-admin-loopback/issues"
+    "url": "https://github.com/joshyan/react-admin-loopback/issues"
   },
-  "homepage": "https://github.com/darthwesker/react-admin-loopback#readme"
+  "homepage": "https://github.com/joshyan/react-admin-loopback#readme"
 }
