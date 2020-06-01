@@ -148,7 +148,7 @@ export default (apiUrl, httpClient = fetchJson) => {
       return Promise.all(
         params.ids.map(id =>
           httpClient(`${apiUrl}/${resource}/${id}`, {
-            method: 'PUT',
+            method: 'PATCH',
             body: JSON.stringify(params.data),
           })
         )
